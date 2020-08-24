@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01c7d2</color>
+    <color name="colorPrimaryDark">#00b2bc</color>
+    <color name="colorAccent">#C34743</color>
+
+    <!-- Cores FloatingActionMenu despesas -->
+    <color name="colorPrimaryD">#ff706a</color>
+    <color name="colorPrimaryDarkD">#e66560</color>
+    <color name="colorAccentD">#ff706a</color>
+
+    <!-- Cores FloatingActionMenu Receita -->
+    <color name="colorPrimaryR">#00d39e</color>
+    <color name="colorPrimaryDarkR">#00be8b</color>
+    <color name="colorAccentR">#00d39e</color>
+
+    <!-- Cor Text -->
+    <color name="colorTexteBlack">#000000</color>
+
+    <!-- Cor Text -->
+    <color name="bt_principal_dinheiro">#38B824</color>
+    <color name="bt_principal_dinheiroD">#CA2020</color>
+    <color name="bt_principal_dinheiroR">#38B824</color>
+
+</resources>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Orzanizze</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- String intro -->
+
+    <string name="zero">R$ 00.00</string>
+    <string name="data_exemplo">ex: 01/01/2021</string>
+    <string name="salário_exemplo">ex: Salário</string>
+    <string name="salário_descricao_exemplo">ex: salário empresa A</string>
+
+    <!-- String intro -->
+    <string name="text_intro1_text1">Organize suas contas \n de onde estiver</string>
+    <string name="text_intro1_text2">Simples, fácil de usar e grátis</string>
+    <string name="text_intro2_text1">Saiba para onde está indo seu dinheiro</string>
+    <string name="text_intro2_text2">Categorizando seus lançamentos e vendo o \n destino de cada centavo"</string>
+    <string name="text_intro3_text1">Nunca mais esqueça de \n pagar uma conta</string>
+    <string name="text_intro3_text2">Receba alertas quando quiser</string>
+    <string name="text_intro4_text1">Tudo organzado, no\ncelular ou computador</string>
+    <string name="text_intro4_text2">Use no seu Smartphone e acessando o \n Organizze pelo site</string>
+
+    <!-- String cadastro -->
+    <string name="textV_cadastro_principal">Crie sua conta grátis</string>
+    <string name="bt_cadastro_principal">Cadastrar</string>
+    <string name="textV_cadastro_termos">termos de uso</string>
+
+    <!-- String cadastro -->
+    <string name="textV_login_principal">Acesse sua conta</string>
+    <string name="bt_login_principal">Entrar</string>
+
+    <!-- String ContentP -->
+    <string name="textV_ContP_saudacao">Carregando..</string>
+    <string name="textV_contP_saldo"> Saldo geral</string>
+
+    <!-- String ContentP -->
+    <string name="textV_introPrincipal">Junte-se a mais de meio milhão\n de pessoas e comece já</string>
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.intro_4">
+
+    <LinearLayout
+        android:id="@+id/linear_intro4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/image_intro4"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/quatro" />
+
+        <TextView
+            android:id="@+id/textV_intro4_texto1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="@string/text_intro4_text1"
+            android:textAlignment="center"
+            android:textColor="@color/colorTexteBlack"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textV_intro4_texto2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_intro4_text2"
+            android:textAlignment="center" />
+    </LinearLayout>
+</FrameLayout>
